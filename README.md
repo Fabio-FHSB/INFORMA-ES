@@ -10,7 +10,7 @@ Projeto desenvolvido com o auxilio do curso Discover da Rocketseat ministrada po
 </p>
 
 <p align="center">
-  <img alt="License" src="./assets/Informações.jpg">
+  <img alt="License" src=".vscode/assets/Informações.jpg">
 </p>
 
 <br>
